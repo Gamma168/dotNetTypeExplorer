@@ -1,3 +1,5 @@
+![Logo](LonGreatTitle.png)
+
 ![Logo](dotNetTypeExplorer.png)
 
 # 相關連結
