@@ -6,7 +6,8 @@
 
 開發平台
 
-.NET 8 - WinForm ![Logo](logo.png)(https://www.devexpress.com/)
+.NET 8 - WinForm 
+![Logo](logo.png)(https://www.devexpress.com/)
 
 安裝
 
