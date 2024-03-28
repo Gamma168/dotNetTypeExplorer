@@ -4,8 +4,6 @@
 
 # 相關連結
 
-[簡介](/CHT/Introduction.pdf)
-
 安裝
 
 下載解壓dotNetTypeExplorer-X64.7z或dotNetTypeExplorer-X86.7z---後請執行 dotNetTypeExplorer.exe 
