@@ -1,4 +1,4 @@
-![Logo](LonGreatTitle.png)
+![Logo](LonGreatTitle.png)(http://www.longreat.net)
 
 ![Logo](dotNetTypeExplorer.png)
 
